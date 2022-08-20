@@ -1,7 +1,7 @@
 Algoritmo "PartidadeFutebol"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Gustavo Guanabara
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : Definir se o placar da partida foi normal, empate ou goleada
 // Autor(a)    : Tiago Carneiro
 // Data atual  : 10/08/2022
 Var
